@@ -17,9 +17,9 @@ class Skills extends React.Component {
           {this.renderSkill("Python", "Data Science", faPython, "Intermediate", "text-yellow-500")}  
           {this.renderSkill("Android Development", "Mobile Development", faAndroid, "Intermediate", "text-green-500")}  
           {this.renderSkill("Git", "Version Control", faGitAlt, "Advanced", "text-orange-500")}  
-          {this.renderSkill("AWS", "Cloud Computing", faAws, "Intermediate", "text-yellow-500")}  
+          {this.renderSkill("AWS", "Cloud Computing", faAws, "Beginner", "text-yellow-500")}  
           {this.renderSkill("SQL", "Database Management", faDatabase, "Advanced", "text-blue-500")}  
-          {this.renderSkill("Other Programming Languages", "Various", faCode, "Intermediate", "text-gray-500")}  
+          {this.renderSkill("Other Programming Languages", "Various", faCode, "Beginner", "text-gray-500")}  
         </div>  
       </div>  
     );  
